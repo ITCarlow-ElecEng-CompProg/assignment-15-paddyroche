@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512678652 source:g:\paddy yr2\comp prog\ex 15\main.cpp
+	<iostream>
+	<tgmath.h>
+
